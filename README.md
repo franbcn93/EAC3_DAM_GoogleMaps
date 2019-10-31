@@ -9,4 +9,4 @@ identificat amb un nom. Ex: feina. - Botó per centrar el mapa a la localitzaci�
 següent missatge: La meva localització és: (coordenades del lloc). Les coordenades han d'estar en format (latitud, longitud).
 Heu d'obtenir la posició actual del GPS dels dispositiu. Si feu servir emulador podeu emular una ubicació.
 
-
+![Selección_045](https://user-images.githubusercontent.com/24720815/67942080-52f77400-fbd7-11e9-8736-e6d805456e49.png)
